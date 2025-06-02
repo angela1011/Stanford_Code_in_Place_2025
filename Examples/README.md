@@ -1,0 +1,3 @@
+# Examples with Solutions
+
+Here are all of the practice problems we've written so that you can get extra practice understanding the lecture material! All of these practice problems come with solutions. We recommend you use this as a resource rather than running it through front to back -- pick which concepts you need the most practice with, find a problem (or multiple!) that covers those concepts and looks fun, and have a good time!
