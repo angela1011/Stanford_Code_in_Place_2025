@@ -1,4 +1,4 @@
-s tells PyCharm who Karel is
+# This tells PyCharm who Karel is
 # Every Karel file has a line just like it
 from karel.stanfordkarel import *
 

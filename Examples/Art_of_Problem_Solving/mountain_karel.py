@@ -1,5 +1,4 @@
-
-m karel.stanfordkarel import *
+from karel.stanfordkarel import *
 
 """
 File: Mountain.py
